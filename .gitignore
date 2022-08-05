@@ -1,0 +1,7 @@
+/docs 
+*.log
+config.js 
+test_*.cg 
+.env
+
+

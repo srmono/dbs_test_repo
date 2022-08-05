@@ -3,5 +3,4 @@
 config.js 
 test_*.cg 
 .env
-
-
+*.png
